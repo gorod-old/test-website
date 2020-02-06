@@ -12,7 +12,7 @@ setTimeout(function() {
 // loading disable
 setTimeout(function() {
     document.getElementById('loading').style.display = 'none';
-}, 4500);
+}, 2000);
 
 // hover in button
 $(document).ready(function () {
